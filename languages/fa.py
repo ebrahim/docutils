@@ -33,10 +33,10 @@ labels = {
       'error': u'خطا',
       'hint': u'تذکر',
       'important': u'مهم',
-      'note': u'توجه',
+      'note': u'یادداشت',
       'tip': u'نکته',
       'warning': u'اخطار',
-      'contents': u'محتویات'}
+      'contents': u'فهرست'}
 """Mapping of node class name to label text."""
 
 bibliographic_fields = {
@@ -53,7 +53,7 @@ bibliographic_fields = {
       u'حق نشر': 'copyright',
       u'تقدیم': 'dedication',
       u'چکیده': 'abstract'}
-"""English (lowcased) to canonical name mapping for bibliographic fields."""
+"""Persian to canonical name mapping for bibliographic fields."""
 
 author_separators = [';', ',', u'،', u'؛']
 """List of separator strings for the 'Authors' bibliographic field. Tried in
