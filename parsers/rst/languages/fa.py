@@ -26,7 +26,7 @@ directives = {
       u'یادداشت': 'note',
       u'نکته': 'tip',
       u'اخطار': 'warning',
-      u'سرزنش': 'admonition',
+      u'نصیحت': 'admonition',
       u'حاشیه': 'sidebar',
       u'موضوع': 'topic',
       u'قطعه-خط': 'line-block',
