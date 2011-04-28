@@ -1,3 +1,4 @@
+# coding=utf8
 # $Id: en.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: Mohammad Ebrahim Mohammadi Panah <ebrahim@mohammadi.ir>
 # Copyright: This module has been placed in the public domain.

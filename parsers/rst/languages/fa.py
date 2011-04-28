@@ -1,3 +1,4 @@
+# coding=utf8
 # $Id: en.py 6460 2010-10-29 22:18:44Z milde $
 # Author: Mohammad Ebrahim Mohammadi Panah <ebrahim@mohammadi.ir>
 # Copyright: This module has been placed in the public domain.
